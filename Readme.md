@@ -1,2 +1,6 @@
-# 用于存放我的c++代码
-不知道为什么此仓库不能命名为c++，因此只能被迫称为c--
+# 主要负责存放我的C++算法代码
+
+| 文件夹 | 内容 |
+|:-: | :-: |
+|ACwing|Code in ACwing|
+|LeetCode|Code in LeetCode|
